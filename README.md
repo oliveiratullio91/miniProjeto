@@ -54,4 +54,4 @@ Eficiência: Speedup / Número_de_Threads
 
 Resultados típicos: 2-4x speedup com 2-4 threads.
 
-Feito por >> Bárbara Portella, Tassiana Oliveira e Tullio Oliveira.
+Desenvolvido por: Bárbara Portella, Tassiana Oliveira e Tullio Oliveira.
