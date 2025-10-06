@@ -26,6 +26,7 @@ Threading (paralelismo)
 
 Instalação
 bash
+
 # Clone o repositório
 git clone https://github.com/seu-usuario/miniProjeto.git
 cd miniProjeto
