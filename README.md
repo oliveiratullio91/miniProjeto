@@ -1,4 +1,4 @@
-Processamento de Imagens com Filtro Sépia em Paralelo
+#Processamento de Imagens com Filtro Sépia em Paralelo
 Projeto Python que demonstra processamento paralelo de imagens aplicando filtros sépia, comparando desempenho entre abordagens sequencial e paralela.
 
 Sobre
